@@ -6,7 +6,6 @@ public abstract class AterioivaOtus {
 
     public abstract Juoma createJuoma();
 
-
     public void aterioi(){
         syö();
         juo();
@@ -16,10 +15,9 @@ public abstract class AterioivaOtus {
         System.out.println("Kylläpä ruoka maistuukin hyvältä!");
     }
 
-
     public void juo(){
         if (juoma == null)
             juoma = createJuoma();
-        System.out.println("Aterian jälkeen " + juoma + " tekee terää");
+        System.out.println("Aterian jälkeen " + juoma + " tekee terää.");
     }
 }
