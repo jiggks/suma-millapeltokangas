@@ -33,7 +33,5 @@ public class Main {
         System.out.println("Motherboard and components: " + motherBoard.getPrice());
         System.out.println("Case and components: " + newCase.getPrice());
         
-        ramOne.addComponent(ramTwo);
-        
     }
 }
