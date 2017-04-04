@@ -4,3 +4,4 @@
 2. Abstract Factory
 3. Composite
 4. Observer
+6. Decorator
