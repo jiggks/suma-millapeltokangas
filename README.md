@@ -8,3 +8,4 @@
 6. Decorator
 7. State
 8. ~Template Method~ (in progress)
+9. Strategy
