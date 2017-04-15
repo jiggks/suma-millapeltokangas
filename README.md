@@ -6,3 +6,5 @@
 4. Observer
 5. ~Singleton~ (in progress)
 6. Decorator
+7. State
+8. ~Template Method~ (in progress)
