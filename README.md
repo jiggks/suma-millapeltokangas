@@ -9,3 +9,4 @@
 7. State
 8. ~Template Method~ (in progress)
 9. Strategy
+10. Chain of Responsibility
