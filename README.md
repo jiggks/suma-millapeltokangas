@@ -11,3 +11,6 @@
 9. Strategy
 10. Chain of Responsibility
 11. Memento
+12. ~Proxy~ (in progress)
+13. Visitor
+14. Builder
